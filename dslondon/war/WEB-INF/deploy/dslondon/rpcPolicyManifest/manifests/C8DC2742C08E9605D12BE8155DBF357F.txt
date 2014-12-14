@@ -1,0 +1,2 @@
+serviceClass: com.chime.hack.client.GreetingService
+path: 9C8FF11B6A12E2B901776BAFDC14BB86.gwt.rpc
